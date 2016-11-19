@@ -4,9 +4,6 @@ so ~/.vim/plugins.vim
 
 syntax enable
 
-
-
-
 set backspace=indent,eol,start              "Make backspace behave like every other editor.
 let mapleader =','                    "The default leader is \, but a comma is much better.
 set nonumber                                                    "Let's activate line numbers.
